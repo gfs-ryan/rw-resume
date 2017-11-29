@@ -1,0 +1,491 @@
+{
+  "basics": {
+    "name": "Ryan J Wilson",
+    "label": "Developer & Business Owner",
+    "picture": "../public/images/19030201_10212925399866771_4702038782600840618_n.jpg",
+    "email": "ryanw2382@gmail.com",
+    "phone": "(480) 625-5862",
+    "website": "https://www.ryanwilson.rocks",
+    "summary": [
+      "I have over 15 years experience as an Entrepreneur and self-starter. During the past several years my main focus has been on web applications and digital media and creating business class solutions that enhance processes for companies in many industries. Utilizing hard data and statistics, I am able to analyze a business' strengths and weaknesses to form and implement a plan for reform.",
+      "My ability to think on my feet allows me to solve many of the problems that exist in business. I take great pride and ownership over whatever project I am working on and make it my own.",
+      "Over the last few years I have become more active in my community through organizations like the Freemasons.",
+      "Utilized email marketing in Salesforce for initial customer contact and generated over $8M in Sales Qualified Leads (SQL) in Q1 alone with a quota of $2M.",
+      "Organized a PR event (within 3 weeks) in Las Vegas, Nevada, for disabled veteran with the Riviera Casino and COP4X4 Automotive School of Excellence which received national news coverage."
+    ],
+    "location": {
+      "address": "1645 W Baseline Rd.",
+      "postalCode": "85202",
+      "city": "Mesa",
+      "countryCode": "USA",
+      "region": "Arizona"
+    },
+    "profiles": [
+      {
+        "network": "Phone",
+        "username": "(480) 625-5862",
+        "url": "skype:+14806255862"
+      },
+      {
+        "network": "Email",
+        "username": "ryanw2382@gmail.com",
+        "url": "mailto:ryanw2382@gmail.com"
+      },
+      {
+        "network": "Facebook",
+        "username": "rj82",
+        "url": "https://www.facebook.com/rjw82"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "ryanw2382@gmail.com",
+        "url": "https://www.linkedin.com/in/ryanjwilson/"
+      },
+      {
+        "network": "GitHub",
+        "username": "gfs-ryan",
+        "url": "https://github.com/gfs-ryan"
+      },
+      {
+        "network": "Stack Overflow",
+        "username": "ryan-wilson",
+        "url": "https://stackoverflow.com/users/8951870/ryan-wilson"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Green Fields Solutions, Inc.",
+      "position": "CEO",
+      "website": "http://www.greenfields.io",
+      "startDate": "2017-01-01",
+      "endDate": "Present",
+      "summary": "Mesa, AZ",
+      "highlights": [
+        "I Built the company from the ground up.  Focusing on researching the caveats to the legal medical marijuana market in Arizona to develop an marketing and development strategy to bridge the gaps between law-makers and patients.",
+        "When building out a prototype application proved troublesome, I took it upon myself to enroll at Coder Camps dev bootcamp to shore up the gaps in my skills and move forward with the plan.",
+        "While not only starting the business, going to Coder Camps, managing a development team, setting up the project structure and networking the business; I also contribute a large amount of code to our repository."
+      ]
+    },
+    {
+      "company": "Wilson Business Solutions, LLC",
+      "position": "Owner",
+      "website": "",
+      "startDate": "2013-12-01",
+      "endDate": "Present",
+      "summary": "Mesa, AZ",
+      "highlights": [
+        "Create customer websites hosted on a LAMP Server",
+        "Utilize Windows Azure for Cloud AD and VM Creation for internal use",
+        "Office365 E3 with Dynamics CRM implementation",
+        "Utilize MSDN Ultimate Subscription obtained through BizSpark for application creation with VS 2013 while incorporating Windows Azure Services"
+      ]
+    },
+    {
+      "company": "CoachLift Sales, LLC",
+      "position": "Partner",
+      "website": "",
+      "startDate": "2013-06-01",
+      "endDate": "2013-12-01",
+      "summary": "Tempe, AZ",
+      "highlights": [
+        "Setup a LAMP Server, configured cPanel & WHM",
+        "Built an e-commerce website with specific calls to action and payment processing",
+        "Formed business alliances to add like products to website for sale",
+        "Offered consumer financing option through First Look Approval and integrated with the website",
+        "Organized a PR event in Las Vegas, Nevada, for disabled veteran with the Riviera Casino and COP4X4, which received national news coverage"
+      ]
+    },
+    {
+      "company": "ABM Industries",
+      "position": "Facilities Maintenance",
+      "website": "https://www.abm.com/",
+      "startDate": "2014-10-01",
+      "endDate": "2015-03-01",
+      "summary": "Phoenix, AZ",
+      "highlights": [
+        "Maintained equipment and tools used at assigned City of Phoenix Transit Facility",
+        "Worked on-call and was available for emergencies after hours at any of 3 locations",
+        "Utilized and maintained the ticketing system to record hours and notes for each project",
+        "Displayed out of the box thinking on high level tickets that resulted in quick turn-arounds",
+        "Worked and developed relationships with City of Phoenix personnel",
+        "Created outlines and other documents to provide SOP for all employees to follow",
+        "Purchased parts at vendors for work to be completed"
+      ]
+    },
+    {
+      "company": "LiveOps",
+      "position": "Sales & New Business Development",
+      "website": "https://www.liveops.com/",
+      "startDate": "2011-11-01",
+      "endDate": "2012-05-01",
+      "summary": "Tempe, AZ",
+      "highlights": [
+        "Utilized lead generation tools to qualify new leads and handed off to direct sales",
+        "Scheduled product demos and followed up with potential clients",
+        "Used email marketing within SalesForce for initial customer contact",
+        "Top Salesperson generating over $8M in sales in Q1 2012, versus a quota of $2M"
+      ]
+    },
+    {
+      "company": "GoMySites",
+      "position": "US Sales & Operations",
+      "website": "http://www.gomysites.com",
+      "startDate": "2009-12-01",
+      "endDate": "2011-11-01",
+      "summary": "Mesa, AZ",
+      "highlights": [
+        "Managed leads generated through website contact us form",
+        "Generated sales and prospects through cold calling, networking and appointment setting",
+        "Worked with the development team to put together quotes for custom-built websites",
+        "Followed-up throughout the sales cycle to ensure customer satisfaction"
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Grand Lodge of Free & Accepted Masons in Arizona ",
+      "position": "Master Mason",
+      "website": "http://www.azmasons.org/",
+      "startDate": "2013-06-01",
+      "endDate": "Present",
+      "summary": "Scottsdale, AZ",
+      "highlights": [
+        "<HIGHTLIGHT_1>",
+        "<HIGHTLIGHT_2>",
+        "<HIGHTLIGHT_3>"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Coder Camps",
+      "area": "Full Stack Web JavaScript Development",
+      "studyType": "Full-time",
+      "startDate": "2017-08-01",
+      "endDate": "2017-11-21",
+      "gpa": "4.0",
+      "summary": "Scottsdale, AZ",
+      "courses": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "Programming Foundations - JavaScript",
+        "Front End Foundations",
+        "Back End Foundations",
+        "Deployment JavaScript",
+        "Database Foundation - SQL",
+        "Database Foundation - NoSQL",
+        "Front End Frameworks - ReactJS",
+        "Responsive Web",
+        "Mobile Web Foundations",
+        "Web Security Foundations",
+        "Agile Project Management"
+      ]
+    },
+    {
+      "institution": "ITT Technical Institute",
+      "area": "Associates in Software Development",
+      "studyType": "Full-time",
+      "startDate": "2014-03-01",
+      "endDate": "2015-03-01",
+      "gpa": "3.6",
+      "summary": "Tempe, AZ",
+      "courses": [
+        "Entry-Level Software Design",
+        "Software Administration",
+        "Software Development"
+      ]
+    },
+    {
+      "institution": "Brown College",
+      "area": "Radio Broadcasting",
+      "studyType": "Full-time",
+      "startDate": "2002",
+      "endDate": "2003",
+      "gpa": "3.9",
+      "summary": "Minneapolis, MN",
+      "courses": [
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "<AWARD_TITLE>",
+      "date": "<DATE>",
+      "awarder": "<AWARDER>",
+      "summary": "<SUMMARY>"
+    }
+  ],
+  "projects": [
+    {
+      "name": "<PUBLICATION_NAME>",
+      "publisher": "<PUBLISHER>",
+      "category": "<CATEGORY>",
+      "releaseDate": "<RELEASE_DATE>",
+      "website": "<WEBSITE>",
+      "summary": "<SUMMARY>",
+      "image": {
+        "modal": "<MODAL_IMAGE>",
+        "thumb": "<THUMBNAIL_IMAGE>"
+      },
+      "keywords": [
+        "<KEYWORD_1>",
+        "<KEYWORD_2>",
+        "<KEYWORD_3>"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "title": "Programming Languages",
+      "description": [
+        "<DESCRIPTION_1>",
+        "<DESCRIPTION_2>",
+        "<DESCRIPTION_3>"
+      ],
+      "skillDetails": [
+        {
+          "name": "HTML5",
+          "level": "80",
+          "keywords": [
+            "<KEYWORD_1>",
+            "<KEYWORD_2>",
+            "<KEYWORD_3>"
+          ]
+        },
+        {
+          "name": "CSS3",
+          "level": "65",
+          "keywords": [
+            "<KEYWORD_1>",
+            "<KEYWORD_2>",
+            "<KEYWORD_3>"
+          ]
+        },
+        {
+          "name": "JavaScript",
+          "level": "60",
+          "keywords": [
+            "<KEYWORD_1>",
+            "<KEYWORD_2>",
+            "<KEYWORD_3>"
+          ]
+        },
+        {
+          "name": "React Js",
+          "level": "55",
+          "keywords": [
+            "<KEYWORD_1>",
+            "<KEYWORD_2>",
+            "<KEYWORD_3>"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Frameworks",
+      "description": [
+        "My qualifications range over multiple disciplines from Sales to Software Development.",
+        "<DESCRIPTION_2>",
+        "<DESCRIPTION_3>"
+      ],
+      "skillDetails": [
+        {
+          "name": "WordPress",
+          "level": "90",
+          "keywords": [
+            "<KEYWORD_1>",
+            "<KEYWORD_2>",
+            "<KEYWORD_3>"
+          ]
+        },
+        {
+          "name": "Firebase",
+          "level": "80",
+          "keywords": [
+            "<KEYWORD_1>",
+            "<KEYWORD_2>",
+            "<KEYWORD_3>"
+          ]
+        },
+        {
+          "name": "Magento",
+          "level": "70",
+          "keywords": [
+            "<KEYWORD_1>",
+            "<KEYWORD_2>",
+            "<KEYWORD_3>"
+          ]
+        },
+        {
+          "name": "cPanel / WHM",
+          "level": "65",
+          "keywords": [
+            "<KEYWORD_1>",
+            "<KEYWORD_2>",
+            "<KEYWORD_3>"
+          ]
+        },
+        {
+          "name": "Windows Azure",
+          "level": "60",
+          "keywords": [
+            "<KEYWORD_1>",
+            "<KEYWORD_2>",
+            "<KEYWORD_3>"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "IT & DevOps",
+      "description": [
+        "My qualifications range over multiple disciplines from Sales to Software Development.",
+        "<DESCRIPTION_2>",
+        "<DESCRIPTION_3>"
+      ],
+      "skillDetails": [
+        {
+          "name": "SEO / SEM",
+          "level": "80",
+          "keywords": [
+            "<KEYWORD_1>",
+            "<KEYWORD_2>",
+            "<KEYWORD_3>"
+          ]
+        },
+        {
+          "name": "SaaS / IaaS / CCaaS / PaaS",
+          "level": "70",
+          "keywords": [
+            "<KEYWORD_1>",
+            "<KEYWORD_2>",
+            "<KEYWORD_3>"
+          ]
+        },
+        {
+          "name": "SEO / SEM",
+          "level": "65",
+          "keywords": [
+            "<KEYWORD_1>",
+            "<KEYWORD_2>",
+            "<KEYWORD_3>"
+          ]
+        },
+        {
+          "name": "Microsoft Enterprise Deployment",
+          "level": "55",
+          "keywords": [
+            "<KEYWORD_1>",
+            "<KEYWORD_2>",
+            "<KEYWORD_3>"
+          ]
+        },
+        {
+          "name": "Server Deployment",
+          "level": "50",
+          "keywords": [
+            "<KEYWORD_1>",
+            "<KEYWORD_2>",
+            "<KEYWORD_3>"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Skills",
+      "description": [
+        "My qualifications range over multiple disciplines from Sales to Software Development.",
+        "<DESCRIPTION_2>",
+        "<DESCRIPTION_3>"
+      ],
+      "skillDetails": [
+        {
+          "name": "Inside / Outside Sales",
+          "level": "95",
+          "keywords": [
+            "<KEYWORD_1>",
+            "<KEYWORD_2>",
+            "<KEYWORD_3>"
+          ]
+        },
+        {
+          "name": "Lead Generation",
+          "level": "90",
+          "keywords": [
+            "<KEYWORD_1>",
+            "<KEYWORD_2>",
+            "<KEYWORD_3>"
+          ]
+        },
+        {
+          "name": "Team Player",
+          "level": "85",
+          "keywords": [
+            "<KEYWORD_1>",
+            "<KEYWORD_2>",
+            "<KEYWORD_3>"
+          ]
+        },
+        {
+          "name": "Customer Management",
+          "level": "80",
+          "keywords": [
+            "<KEYWORD_1>",
+            "<KEYWORD_2>",
+            "<KEYWORD_3>"
+          ]
+        },
+        {
+          "name": "Email Marketing",
+          "level": "75",
+          "keywords": [
+            "<KEYWORD_1>",
+            "<KEYWORD_2>",
+            "<KEYWORD_3>"
+          ]
+        },
+        {
+          "name": "Communication",
+          "level": "70",
+          "keywords": [
+            "<KEYWORD_1>",
+            "<KEYWORD_2>",
+            "<KEYWORD_3>"
+          ]
+        }
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "name": "English",
+      "level": "100"
+    }
+  ],
+  "interests": [
+    {
+      "name": "<INTEREST_NAME>",
+      "keywords": [
+        "<KEYWORD_1>",
+        "<KEYWORD_2>",
+        "<KEYWORD_3>"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "name": "Jesse Tomchak",
+      "position": "JavaScript Instructor",
+      "company": "Coder Camps",
+      "reference": "These guys did amazing work and on an extremely limited time line."
+    },
+    {
+      "name": "Joseph Campbell",
+      "position": "Inspirator",
+      "company": "Brainy Quotes",
+      "reference": "We must let go of the life we have planned, so as to accept the one that is waiting for us."
+    }
+  ]
+}
